@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tho. Kentish a trustee for certain indigent poor, his complaint of great injuries done [by] the city and their officers, Mr. Oddy and others, &amp;c. drawn up at the invitation of the Lord Maior and Court of Aldermen, in their order dated Sept. 17. 1689. Wherein they honourably promise to hear his complaint, and do him right.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25453</idno><idno type="EEBO-CITATION">99885518</idno>
+  <idno type="VID">185213</idno>
+  <idno type="EEBO-PROQUEST">2240880523</idno>
+  
+            <idno type="STC">Wing K321</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.9[6]</idno>
+            <idno type="STC">ESTC R224574</idno>
+            <idno type="PROQUEST">ocm99885518</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885518e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185213)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:1[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tho. Kentish a trustee for certain indigent poor, his complaint of great injuries done [by] the city and their officers, Mr. Oddy and others, &amp;c. drawn up at the invitation of the Lord Maior and Court of Aldermen, in their order dated Sept. 17. 1689. Wherein they honourably promise to hear his complaint, and do him right.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Debtor and creditor --  Legal status, laws, etc. --  Scotland --  Early works to 1800.</term>
+               <term type="topical_term">Civil procedure --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185213:1"/>
+            <head>
+               <hi>THO. KENTISH</hi> a Trustee for certain Indigent Poor, his <hi>Complaint</hi> of great Injuries do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>City</hi> and their Officers, Mr. <hi>Oddy</hi> and others, <hi>&amp;c.</hi> drawn up at the Invitation of the <hi>Lord <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and Court of Aldermen, in their Order dated <hi>Sept.</hi> 17. 1689. wherein they Honourably promise to hear his Complaint, and do him Right.</head>
+            <p n="1">1. THat in or about 1684. an House on the middle East part of <hi>London-Bridge,</hi> which cost above 220 <hi>l.</hi> and was <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>int.</note> bequeathed in Trust for paying a weekly Charity of 10 <hi>l.</hi> 8 <hi>s. per Ann.</hi> for above 30 years then to come, was demolished by the City and <hi>Bridge-house</hi> Officers and Work-men, as a Nusance, without giving him the Trustee any previous notice of an Indictment, and <hi>without offering any reasonable Terms;</hi> tho he had under his Hand once and again professed his readiness for the publick Good to do any thing he could do Legally and Honestly; and had de<g ref="char:EOLhyphen"/>clared his hard Case, both as under a 7 years Lease to an unreasonable Tenant, and more than a 30 years Trust for needy Poor: And tho (as now appears) Terms easie enough were granted others, and particularly the Widow <hi>Webb.</hi> Nay, when they would offer no Terms, <hi>T. K.</hi> did offer to build if the Tenant would pay the Rent in Arrear already disbursed to the Poor, and deliver up his Lease; and if the City would bate some Rent for the Rooms to be lost over the Street. Both which were denyed.</p>
+            <p>Mr. <hi>Oddy</hi>'s Answer in <hi>Chancery</hi> owns all <hi>T. K.</hi>'s offers, and much of the City's denyals and injurious pro<g ref="char:EOLhyphen"/>cedures; <note place="margin">Proof.</note> and his Letters compleat the Evidence.</p>
+            <list>
+               <item>1. His Letter dated <hi>Aug.</hi> 1. 1684. saith, <hi>The Committee cannot abate any thing of the present Rent, &amp;c.</hi>
+               </item>
+               <item>2. His Letter dated <hi>August</hi> 9. saith, <hi>The Committee upon reading your Case, sent for your Tenant, and prevailed with him to pay a Quarters Rent, and to surrender his Lease;—and in this the Committee have done all they can for you.</hi> Now thus <hi>T. K.</hi> must buy his Tenant out of the 7 years Lease he had bought him into. For when ano<g ref="char:EOLhyphen"/>ther offered 26 <hi>l. per ann.</hi> for a year or two, without Lease, this Tenant for a 7 years Lease had it at 18 <hi>l. per ann.</hi> he had bin in possession of it now almost two years, and for that time the other would have given 52 <hi>l.</hi> he had payd but 18 <hi>l.</hi> and would have payd but 4 <hi>l.</hi> 10 <hi>s.</hi> more, and yet have bin rid of his 7 years Lease.</item>
+               <item>3. His next Letter, dated <hi>Octob.</hi> 15. 1684. saith, <hi>The Sheriffs Officers intend to morrow to Level and remove part of your House adjudged a Common Nusance,</hi> &amp;c.</item>
+            </list>
+            <p n="2">
+               <note place="margin">Complaint.</note>2. That after this demolishment, He (zealous of Peace and the publick good, and not suspicious of Fraudulencies) was by several Artifices drawn to discharge his Tenant, and ingage himself in Articles for Building, before he could come at his old Lease, or get Possession or sight of his House and its ruines. The Key being then delivered, and he find<g ref="char:EOLhyphen"/>ing that (in the time of this Treaty) his Chimneys, Stairs and Foundations, had bin so removed, that no visible Evidence was left of the true Dimensions, <hi>he made a General Agreement with the Carpenter, who was to build on both sides,</hi> and whose own House joyned to his North-side, <hi>to build for him a new House on his Ground, not mentioning any measure of Breadth, which would have bin some security to him, and some awe upon the Carpenter.</hi> But Mr. <hi>Oddy</hi> (having promised to bear this Car<g ref="char:EOLhyphen"/>penter out) did with others for his Security and at his sole desire (who had designedly made these Ruines, and was to gain by them) make a pretended Survey when none but the Front-wall was standing set out for <hi>K.</hi> both Front and R<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, and therein but part of his Ground for the whole, <hi>viz.</hi> less than 11 Foot for more than 17 Foot breadth, as appears at the poynt of the unmoved Stone-Peer, laying the rest (which was the bredth in which stood 3 Chimnies, a Stair <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ase, Counting-house and other Conveniences in an additional Building on the North-side the main Rooms and Roof) into the Carpenters own Ground or bredth. By this means the Carpenter hath sold or disposed several Foot-bredth to others; and pleads he hath built <hi>K.</hi>'s House on all his Ground, because all the City set out for him: <hi>K.</hi>'s House is useless and unhabitable, standing but upon part of his Ground; and yet he hath bin forced to lay down for it the Price agreed only to be payd for a convenient House on his whole Ground: and the City hath Lett that Ground to others, which was for 30 years to come under Lease to <hi>Kentish.</hi>
+            </p>
+            <list>
+               <item>1. The general Agreement with Carpenter without measure of bredth, appears by sealed Articles. <note place="margin">Proof.</note>
+               </item>
+               <item>2. The Account of the injurious admeasurement under Mr. <hi>Oddy</hi>'s own hand. <hi>The Front of</hi> Mr. Kentish'<hi>s house will be 11 foot, and the Rear at 28 foot deep but 10 foot 10 Inches, clear of all Intermixtures upright, from the mid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of one Partition to the middle of the other.</hi> Admeasured the <hi>22th.</hi> of <hi>Apr.</hi> 1685. Phil. Oddy.</item>
+               <item>3. The Injuriousness of this Admeasurement proved by 5 or 6 <hi>Affidavits</hi> made before Sir <hi>T. Pilkington</hi> Lord Maior, which are plain and indisputable, and made by unconcerned persons, <hi>Anno</hi> 1689. and 1690.</item>
+            </list>
+            <p>We prove,
+<list>
+                  <item>(1) That the Lease grants all the Rooms from Shop to Garret 11 foot bredth, and 28 foot, 10 Inches length, besides Appurtenances.</item>
+                  <item>(2) That on the North-side out of these 11 foot Rooms and their Roof, was appurtenant thereto an addi<g ref="char:EOLhyphen"/>tional Building, in which were the Chimnies, commencing about 2 or 3 foot from the present new Front, and beyond these Chimnies Eastward a Counting-house, Stair-case, House of Office, and other Conveniences under a distinct Roof of their own.</item>
+                  <item>(3) That the 11 foot Rooms of the old House ran strait, without any Cumberance of the Chimnies and Stairs in them, and that the Rooms of the new House are but 10 foot and ½ within the Walls, and they are so cumbered and filled up with the Chimnies and Stairs, that the House is hardly habitable.</item>
+                  <item>(4) That the additional Building at the Rere, standing over the poynt of the unmoved Stone-Peer, joyned <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that House on his North-side at least a foot or 2 short of the North-side of that poynt; but by taking fro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>K.</hi> the bredth of this additional Building, the new Houses now joyn full 4 foot Southwards from that u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>moved poynt: So that there is apparently 5 or 6 foot injury done him in bredth on that side. Yet we <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ther prove,</item>
+                  <item>(5) That bredth is also taken from <hi>T. K.</hi>'s South-side; not only 3 Inches, which are confessed in the Answer in <hi>Chancery,</hi> but above a foot, as appears by the Increase of bredth in the two adjacent Houses on that side from 20 foot nine Inches, if so much, unto 22 foot or thereabouts.</item>
+               </list>
+            </p>
+            <p>Against these Complaints and Evidences, Mr. <hi>Oddy</hi> seems to have material Pleas and Objections, from some bold Oaths in <hi>Chancery,</hi> his own and others, from some Papers and Writings, and from some darkness and defect in <hi>K.</hi>'s City Lease, which could only be known to him, and others by him, who took occasion and encouragement thence for this whole Intriege. These may seem to do him some service, while only whispered into some mens ears; yet 'tis his great skill and the Master-piece of his policy to keep them from a cool hearing and full Answer, for that would open such mysteries as would make his best Friends blush. To prevent therefore an hearing in <hi>Westminster-hall, K.</hi> is promised an hearing and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ighting by the Court of Aldermen; to prevent an hearing there, a Reference to Arbitrators is desired: To prevent this, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he City long insists, that one who was a party, and deeply guilty in the things complained of, should be an Arbitrator. At last, in 6 or 7 months time Arbitrators are fixt and Bonds sealed. But then the 4 must all meet together, and Mr. <hi>Odd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o, or nothing could be done; Mr. <hi>Oddy</hi> had therefore skill and influence enough to prevent any seasonable meeting<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hearing, or final determining. And so the Arbitration Bonds are expired, and the matter not heard. Thus after <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny months tedious and chargeable Attendances on the City for Justice, in a matter of injured Charit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to seek his redress at Law, where the City will have the honour of defending their injurious Servants by a<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> so against the private Purse of the injured Trustee of necessitous Poor.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
